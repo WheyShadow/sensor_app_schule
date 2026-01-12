@@ -1,16 +1,25 @@
-# sensor_app
+# Speed Sensor & Lap Timer App (Flutter)
 
-Schulprojekt
+This is a **school project** developed in **Flutter**.  
+The app is designed to work with a speed sensor and allows tracking of speed, lap times and history.
 
-## Getting Started
+## 📱 Features
+- Read speed values from a sensor  
+- Track lap count  
+- Measure lap times  
+- Display timing history  
+- Simple user interface  
 
-This project is a starting point for a Flutter application.
+## 🧠 Purpose of this project
+The goal of this project was to:
+- Learn Flutter and Dart  
+- Work with sensor data  
+- Build a functional mobile app  
+- Handle real-time values and history  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Technologies
+- Flutter  
+- Dart  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Status
+School project – basic functionality implemented.
